@@ -1,0 +1,6 @@
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\bin\Debug\FileProcess.dll
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\bin\Debug\FileProcess.pdb
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\obj\Debug\FileProcess.csprojAssemblyReference.cache
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\obj\Debug\FileProcess.csproj.CoreCompileInputs.cache
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\obj\Debug\FileProcess.dll
+C:\work\testes_unitarios_c#\FileProcess\FileProcess\obj\Debug\FileProcess.pdb
