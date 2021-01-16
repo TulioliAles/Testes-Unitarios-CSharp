@@ -1,0 +1,6 @@
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\bin\Debug\MyClassUnit.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\bin\Debug\MyClassUnit.pdb
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\obj\Debug\MyClassUnit.csprojAssemblyReference.cache
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\obj\Debug\MyClassUnit.csproj.CoreCompileInputs.cache
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\obj\Debug\MyClassUnit.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnit\obj\Debug\MyClassUnit.pdb
