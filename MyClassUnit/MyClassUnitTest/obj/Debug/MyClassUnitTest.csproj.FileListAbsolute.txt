@@ -1,0 +1,16 @@
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\MyClassUnitTest.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\MyClassUnitTest.pdb
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\MyClassUnit.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\MyClassUnit.pdb
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.csprojAssemblyReference.cache
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.csproj.CoreCompileInputs.cache
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.csproj.CopyComplete
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.dll
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.pdb

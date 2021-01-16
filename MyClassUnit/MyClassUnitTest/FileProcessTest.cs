@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MyClassUnit;
+using System;
 
 namespace MyClassUnitTest
 {
@@ -25,9 +26,12 @@ namespace MyClassUnitTest
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentNullException))]
         public void FileNameNullOrEmpty_ThrowsArgumentNullException()
         {
-            Assert.Inconclusive();
+            FileProcess fp = new FileProcess();
+
+            fp.FileExists("");
         }
     }
 }
