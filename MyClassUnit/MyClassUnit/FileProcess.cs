@@ -3,7 +3,7 @@ using System.IO;
 
 namespace MyClassUnit
 {
-    class FileProcess
+    public class FileProcess
     {
         public bool FileExists(string fileName)
         {
