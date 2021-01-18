@@ -14,3 +14,4 @@ C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTes
 C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.csproj.CopyComplete
 C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.dll
 C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\obj\Debug\MyClassUnitTest.pdb
+C:\work\testes_unitarios_c#\MyClassUnit\MyClassUnitTest\bin\Debug\MyClassUnitTest.dll.config
