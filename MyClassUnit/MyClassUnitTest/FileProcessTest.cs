@@ -11,16 +11,19 @@ namespace MyClassUnitTest
     {
         private const string FILE_NAME_ERROR = @"C:\teste.txt";
         private string _FileNameSuccess;
+        public TestContext TestContext { get; set; }
 
         [TestMethod]
         public void FileNameDoesExists()
         {
             FileProcess fp = new FileProcess();
             bool fromCall;
-
             SetFileNameSuccess();
+            TestContext.WriteLine($"Creating File: {_FileNameSuccess}");
             File.AppendAllText(_FileNameSuccess, "Some Text");
+            TestContext.WriteLine($"Testing File: {_FileNameSuccess}");
             fromCall = fp.FileExists(_FileNameSuccess);
+            TestContext.WriteLine($"Deleting File: {_FileNameSuccess}");
             File.Delete(_FileNameSuccess);
             Assert.IsTrue(fromCall);
         }
